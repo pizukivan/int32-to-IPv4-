@@ -17,4 +17,4 @@ function int32ToIp(int32) {
     final.forEach(element => ip.push(parseInt(element, 2)));
     return (ip.join('.'))
 }
-int32ToIp(2149583361);
+
